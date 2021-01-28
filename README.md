@@ -1,2 +1,3 @@
 # pykakadu
-Python Wrapper for Kakadu
+A Python based wrapper for Kakadu V8.0.3
+
